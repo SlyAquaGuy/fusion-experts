@@ -36,7 +36,7 @@ a and b are constants depending on the gas.
 ### Choice of Energy
 - This is thermonuclear fusion, or hot fusion, not to be confused with cold fusion. 
 - Ideal gas velocity distribution $v = (2KT/m)^{1/2}$ where v is velocity of the particle, K is boltzmann's constant 1.4*$10^{-23} JK^{-1}$, m is the mass in kg. T is the temperature in K.
-- At >10keV fusion reactants exist in plasma state. The plasma turns into a Poisor (plasma focus) when a mean free path for particles (ions) has been reached **comparable to the vacuum chamber radius**.
+- At >10keV fusion reactants exist in plasma state. The plasma turns into a Poisor (plasma focus) when a mean free path for particles (ions) has become **comparable to the vacuum chamber radius**.
 Mean free path $$l = \frac{k_B T}{\sqrt{2}\pi d^2p}$$
 l is the mean free path for particles
 $k_B$ boltzmann's constant in Joules per Kelvin
