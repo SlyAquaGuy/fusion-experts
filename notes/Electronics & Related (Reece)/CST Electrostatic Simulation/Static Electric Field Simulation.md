@@ -1,6 +1,6 @@
 CST file can be found in the OneDrive under 6.0 Simulations -> CST Electrostatics (Reece)
 
-A simple parametrically defined model "FusionElectrostaticModel.cst" containing a three ring spherical anode and a cylindrical cathode at 0V. 
+A simple parametrically defined model "FusionElectrostaticModel.cst" containing a three ring spherical cathode of radius 25mm based on the 20% of total diameter criterion from [[Fred's Fusor]] and a cylindrical cathode at 0V. 
 
 In general shows expected behaviour. 
 
