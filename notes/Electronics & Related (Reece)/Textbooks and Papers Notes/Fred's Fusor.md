@@ -44,6 +44,8 @@ T is temperature in kelvin
 d is diameter of gas particles in meters
 p is the pressure in pascals
 
+i.e. kb = 1.4e-23, T=300K (ambient), P=1 Pascal, d=2.74e-10 (equivalent scattering diameter of $D_2$, l = 0.013m.
+
 - Exceeding three radii the particle will begin recirculation, enlarging mean free path the particle will oscillate back and forth until full path played out or until reaching a cathode wire. In a Farnsworth-Hirsch Fusor an ion generally makes about five recirculation passes before it ends against the grid (however this can be improved).
 Fusion rate with a constant particle density is defined by $$f = n_1n_2\sigma v$$
 
