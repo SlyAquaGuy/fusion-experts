@@ -1,4 +1,4 @@
-#Radiation  
+#Radiation  #Liam
 
 When electrons are accelerated through a potential V and strike metal structures in the chamber (grid, inner walls, feedthroughs), a fraction of the electrical input power is converted to bremsstrahlung X-rays. A standard first-order estimate for the bremsstrahlung efficiency in a thick target is [10]:
 
