@@ -16,5 +16,5 @@ Though markdown is usable on anything, if you want the best experience you're go
 
 There are a couple small bits of housekeeping, I'll chase ya otherwise.
 1) Don't use sub-folders. Obsidian isn't a place for organising things, it's a place for *notes*. If you need to categorise a note, use a tag like #Plasma. Omnisearch and Ctrl+Space is your friend, search for the text you need!
-2) Keep media in /media, modify your settings accordingly.
+2) Keep media in /media, modify your obsidian settings accordingly (i will chase you)
 3) Draft LaTeX exports locally. Finalised exports can be uploaded under /exports
