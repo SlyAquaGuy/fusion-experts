@@ -8,4 +8,6 @@ yes, we're using creo. its fun I promise!
 ![](./media/CAD%20Setup-1788363947889.png)
 
 3) Ensure "Available Offline" is enabled. This will keep files up to date.
+![](./media/CAD%20Setup-1788364883250.png)
 4) Be careful to move parts inside the assembly but keep local coordinates fixed. Ansys sims won't play nice if you move parts.
+5) Happy CAD-ing!
