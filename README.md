@@ -1,6 +1,6 @@
 # Fusion Notes
 
-Here lies the raw markdown scratch notes, references and the beginnings of fusion.
+[Here lies](https://github.com/SlyAquaGuy/fusion-notes) the raw markdown scratch notes, references and the beginnings of fusion.
 
 If you're looking for the codebase, head to [The Main Repository]()
 
